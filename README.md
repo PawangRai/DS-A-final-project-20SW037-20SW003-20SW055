@@ -4,8 +4,8 @@ In this project, we use a crash dataset to figure out the speed at a crash site
 
 ## Group Members
 
-Pawang Rai - 20SW037
-Zaid Soomro - 20SW003
+Pawang Rai - 20SW037 <br>
+Zaid Soomro - 20SW003 <br>
 Farheen Qazi - 20SW055
 
 ## Motivation
