@@ -2,6 +2,12 @@
 
 In this project, we use a crash dataset to figure out the speed at a crash site
 
+## Group Members
+
+Pawang Rai - 20SW037
+Zaid Soomro - 20SW003
+Farheen Qazi - 20SW055
+
 ## Motivation
 
 Accidents and Crashes are a important factor of society and result in the loss of human life
